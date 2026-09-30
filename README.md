@@ -1,2 +1,3 @@
-# Analise-de-Dados-Publicos
-Fornecedores e concentração de mercado
+# Analise-de-Dados-Públicos
+
+Rotinas computacionais utilizadas no estudo do Artigo: Análise da concentração de fornecedores nas compras públicas de microcomputadores.
